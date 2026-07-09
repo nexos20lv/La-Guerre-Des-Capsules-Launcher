@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=8a2be2&height=200&section=header&text=LGDC%20Launcher&fontSize=60&fontAlignY=40&animation=twinkling&desc=Lanceur%20Officiel&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Launcher&fontSize=60&fontAlignY=40&animation=twinkling&desc=Lanceur%20Officiel&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">ðŸš€ Lanceur officiel pour le jeu La Guerre Des Capsules.</h3>
