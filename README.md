@@ -1,5 +1,5 @@
 <div align="center">
-  ![LGDC Launcher Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Launcher&fontSize=60&fontAlignY=40&animation=twinkling&desc=Lanceur%20Officiel%20%7C%20La%20Guerre%20Des%20Capsules&descAlignY=60&descAlign=50&fontColor=ffffff)
+  ![LGDC Launcher Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Launcher&fontSize=60&fontAlignY=40&animation=twinkling&desc=Lanceur%20Officiel%20%7C%20La%20Guerre%20Des%20Capsules&descAlignY=60&descAlign=50)
 
   <p align="center">
     ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
