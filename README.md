@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=200&amp;section=header&amp;text=LGDC%20Launcher&amp;fontSize=60&amp;fontAlignY=40&amp;animation=twinkling&amp;desc=Lanceur%20Officiel%20%7C%20La%20Guerre%20Des%20Capsules&amp;descAlignY=60&amp;descAlign=50&amp;fontColor=ffffff" alt="LGDC Launcher Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Launcher&fontSize=60&fontAlignY=40&animation=twinkling&desc=Lanceur%20Officiel%20%7C%20La%20Guerre%20Des%20Capsules&descAlignY=60&descAlign=50&fontColor=ffffff" alt="LGDC Launcher Banner" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Framework-Electron-47848F?style=for-the-badge&amp;logo=electron&amp;logoColor=white" alt="Electron" />
+    <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Framework-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
     <img src="https://img.shields.io/badge/Feature-Auto_Updater-007AFF?style=for-the-badge" alt="Auto Updater" />
   </p>
 
